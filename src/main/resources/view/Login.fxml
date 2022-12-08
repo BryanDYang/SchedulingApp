@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="221.0" prefWidth="320.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.LoginController">
+    <children>
+        <AnchorPane layoutX="10.0" layoutY="11.0" prefHeight="200.0" prefWidth="300.0" style="-fx-border-color: gray; -fx-border-radius: 20;">
+            <children>
+                <Label fx:id="userNameLbl" layoutX="10.0" layoutY="59.0" text="Nom d'utilisateur:" />
+                <Label fx:id="passwdLbl" layoutX="29.0" layoutY="109.0" prefHeight="17.0" prefWidth="84.0" text="Mot de passe:" />
+                <Label fx:id="timezoneLbl" layoutX="58.0" layoutY="14.0" text="Fuseau horaire:" />
+                <Label fx:id="zoneIdLbl" layoutX="148.0" layoutY="14.0" text="America/New York" />
+                <Button fx:id="cancelBttn" layoutX="219.0" layoutY="159.0" mnemonicParsing="false" onAction="#cancelBttnAction" text="Annuler" />
+                <Button fx:id="loginBttn" layoutX="126.0" layoutY="159.0" mnemonicParsing="false" onAction="#loginBttnAction" text="S'identifier" />
+                <TextField fx:id="userNameTxt" layoutX="119.0" layoutY="54.0" />
+                <TextField fx:id="passwdTxt" layoutX="119.0" layoutY="104.0" />
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

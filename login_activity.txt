@@ -1,0 +1,36 @@
+test was granted access at 12/08/2022 at 15:41:55PM UTC
+Unknown User was denied access at 12/08/2022 at 15:42:06PM UTC
+Unknown User was denied access at 12/08/2022 at 15:42:10PM UTC
+Unknown User was denied access at 12/08/2022 at 15:42:13PM UTC
+test was granted access at 12/08/2022 at 15:42:17PM UTC
+test was granted access at 12/08/2022 at 15:46:03PM UTC
+null was denied access at 12/08/2022 at 15:55:55PM UTC
+null was denied access at 12/08/2022 at 16:00:50PM UTC
+null was denied access at 12/08/2022 at 16:01:55PM UTC
+null was denied access at 12/08/2022 at 16:04:18PM UTC
+null was denied access at 12/08/2022 at 16:10:43PM UTC
+null was denied access at 12/08/2022 at 16:11:54PM UTC
+null was denied access at 12/08/2022 at 16:20:46PM UTC
+null was denied access at 12/08/2022 at 16:21:44PM UTC
+null was denied access at 12/08/2022 at 16:47:31PM UTC
+test was denied access at 12/08/2022 at 16:51:20PM UTC
+test was denied access at 12/08/2022 at 16:51:28PM UTC
+test was denied access at 12/08/2022 at 16:52:09PM UTC
+test was granted access at 12/08/2022 at 16:52:32PM UTC
+null was denied access at 12/08/2022 at 16:52:54PM UTC
+test was granted access at 12/08/2022 at 18:12:08PM UTC
+test was granted access at 12/08/2022 at 18:21:41PM UTC
+java.util.Scanner[delimiters=\.][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\x{2c}][decimal separator=\x{2e}][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\QNaN\E][infinity string=\Q∞\E] was denied access at 12/08/2022 at 18:25:06PM UTC
+null was denied access at 12/08/2022 at 18:47:17PM UTC
+test was granted access at 12/08/2022 at 18:47:27PM UTC
+test was granted access at 12/08/2022 at 18:58:52PM UTC
+test was granted access at 12/08/2022 at 19:03:27PM UTC
+test was granted access at 12/08/2022 at 19:05:47PM UTC
+test was granted access at 12/08/2022 at 19:18:54PM UTC
+test was granted access at 12/08/2022 at 20:00:05PM UTC
+test was granted access at 12/08/2022 at 20:01:26PM UTC
+test was granted access at 12/08/2022 at 20:02:43PM UTC
+test was granted access at 12/08/2022 at 20:10:19PM UTC
+test was granted access at 12/08/2022 at 20:28:47PM UTC
+test was granted access at 12/08/2022 at 20:34:51PM UTC
+test was granted access at 12/08/2022 at 20:37:00PM UTC

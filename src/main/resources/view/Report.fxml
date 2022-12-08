@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="323.0" prefWidth="367.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ReportsController">
+    <children>
+        <Label layoutX="38.0" layoutY="55.0" text="Reports">
+            <font>
+                <Font size="24.0" />
+            </font>
+        </Label>
+        <Button layoutX="283.0" layoutY="272.0" mnemonicParsing="false" onAction="#backBttnAction" prefHeight="27.0" prefWidth="53.0" text="Back" />
+        <RadioButton fx:id="moRBttn" layoutX="34.0" layoutY="126.0" mnemonicParsing="false" text="Appointment Count by Month and Type">
+            <toggleGroup>
+                <ToggleGroup fx:id="radioButtons" />
+            </toggleGroup></RadioButton>
+        <RadioButton fx:id="schedRadioButton" layoutX="34.0" layoutY="169.0" mnemonicParsing="false" text="Contact Schedule" toggleGroup="$radioButtons" />
+        <RadioButton fx:id="locRBttn" layoutX="34.0" layoutY="211.0" mnemonicParsing="false" text="Appointments by Location" toggleGroup="$radioButtons" />
+        <Button layoutX="151.0" layoutY="272.0" mnemonicParsing="false" onAction="#genBttnAction" text="Generate Report" />
+    </children>
+</AnchorPane>
